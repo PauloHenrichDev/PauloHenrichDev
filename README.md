@@ -1,7 +1,7 @@
 # Olá! Eu sou o Paulo Henrich 👋
 
 💻 **Sobre Mim**:  
-Entusiasta de programação com experiência em **Java**, **Python**, **C** e **SQL**. Estou sempre explorando novas tecnologias e contribuindo para resolver problemas com código eficiente.
+Estudante de programação com experiência em **Java**, **Python**, **C** e **SQL**. Estou sempre explorando novas tecnologias e contribuindo para resolver problemas com código eficiente.
 
 🎯 **Áreas de Interesse**:  
 - Desenvolvimento Back-end  
